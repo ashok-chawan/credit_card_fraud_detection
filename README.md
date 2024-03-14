@@ -484,14 +484,12 @@ provide instructions on how to run your code and reproduce the results.
     - RAM – 4GB
 
 - Software
-    - Python
+    - Python 3.9 and above
     - Jupyter Notebook
+    - Google Colab 
 
 ### Package Installation 
-    - pip3  install pandas
-    - pip3 install scikit-learn scipy matplotlib 
-    - pip3 install imblearn
-    - pip3  install xgboost
+1. pip3 install -r requirements.txt
 
 ### How to Run
 
